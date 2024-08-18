@@ -6,4 +6,40 @@ description: publications by categories in reversed chronological order. generat
 nav: true
 nav_order: 2
 ---
+## Experience
+---
+##### Research Assistant
+**University of Iowa**  
+*August 2019 - Present*
 
+##### R & D Engineering Intern
+**Kitware Inc**  
+*July 2023 - December 2023*
+
+##### Cofounder
+**BridgeAIHub**  
+*2022 - 2024*
+
+##### Software and Hardware designer - Robotics
+**Tata Consultancy Services**  
+*February 2018 - July 2019*
+
+
+## Education
+---
+
+##### University of Iowa, USA
+**Doctor of Philosophy**  
+Biomedical Engineering
+GPA: 8.14/10  
+*2019 - Present*
+
+##### National Institute of Technology Calicut, India
+**Bachelor of Technology**  
+Biotechnology  
+GPA: 8.14/10  
+*2013 - 2017*
+
+##### Govt Higher Secondary School Kuttikkattoor
+**Higher Secondary Education**  
+Percentage: 97%
