@@ -41,6 +41,10 @@ jobs:
               "giscus.repo": "${{ github.repository }}",
               "baseurl": ""
             }
+      - name: Install dependencies
+      run: |
+          gem install bundler
+          bundle install
       - name: Install and Build 🔧
         run: |
           pip3 install --upgrade jupyter
